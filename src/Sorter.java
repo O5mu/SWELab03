@@ -33,5 +33,11 @@ public class Sorter {
         }
     }
 
+    public static Array sort(int[] array){
+        return insertionSort(array);
+    }
+
+
+
 
 }
